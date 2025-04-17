@@ -1,4 +1,4 @@
-# 🌐 Laravel Web Services App - UTS Project
+# 🌐 Web Services Application - UTS Project
 
 A simple yet elegant **Laravel application** that supports **Google OAuth login** and features a personalized user **dashboard with avatar integration**, built using **Tailwind CSS** and **Preline UI** for a clean and responsive interface.
 
