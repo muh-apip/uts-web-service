@@ -21,7 +21,6 @@ A simple yet elegant **Laravel application** that supports **Google OAuth login*
 - 🧍‍♂️ Dynamic User Avatar using [ui-avatars.com](https://ui-avatars.com)
 - 💬 Personalized greeting on dashboard
 - 🚪 Secure logout functionality
-- ✨ Clean, modern UX for authentication flow
 
 ---
 
